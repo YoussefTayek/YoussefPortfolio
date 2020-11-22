@@ -1,6 +1,4 @@
 obj/
-/.vs
-/obj
+.vs
 bin/
-/bin
 Web.csproj.user
