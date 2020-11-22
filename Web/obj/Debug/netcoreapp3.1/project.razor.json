@@ -14390,6 +14390,52 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "Web",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\rahma\\source\\repos\\YoussefPortfolio\\Web\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rahma\\source\\repos\\YoussefPortfolio\\Web\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rahma\\source\\repos\\YoussefPortfolio\\Web\\Views\\PortfolioItems\\Details.cshtml",
+      "TargetPath": "Views\\PortfolioItems\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rahma\\source\\repos\\YoussefPortfolio\\Web\\Views\\PortfolioItems\\Index.cshtml",
+      "TargetPath": "Views\\PortfolioItems\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rahma\\source\\repos\\YoussefPortfolio\\Web\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rahma\\source\\repos\\YoussefPortfolio\\Web\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rahma\\source\\repos\\YoussefPortfolio\\Web\\Views\\PortfolioItems\\Edit.cshtml",
+      "TargetPath": "Views\\PortfolioItems\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rahma\\source\\repos\\YoussefPortfolio\\Web\\Views\\PortfolioItems\\Delete.cshtml",
+      "TargetPath": "Views\\PortfolioItems\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rahma\\source\\repos\\YoussefPortfolio\\Web\\Views\\PortfolioItems\\Create.cshtml",
+      "TargetPath": "Views\\PortfolioItems\\Create.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
